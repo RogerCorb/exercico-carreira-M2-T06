@@ -1,0 +1,18 @@
+{
+  "name": "exercico-carreira-m2-t06",
+  "version": "1.0.0",
+  "description": "Programa de lógica escrito em Javascript que retorna se um número digitado é impar ou par",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
