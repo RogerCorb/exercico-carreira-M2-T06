@@ -1,4 +1,4 @@
-# Exercico-Carreira-M2-B2B-T06
+# Exercício-Carreira-M2-B2B-T06
 
 Programa API-REST, esta API assíncrona foi desenvolvida com objetivo de realizar um CRUD - "Create - Read - Update - Delete" , forao utilizado nas rotas os verbos GET,PUT,POST,DELETE a intenção é simular  um estoque de produtos de um armarinho, Todos os ítens inseridos são armazenados no banco de dados JSON da aplicação. Utilizei leitura e escrita de arquivos JSON. Este servidor roda na porta localhost(3000), foi utilizado o insominia como cliente para testar a API as rotas que criamos utilizando os verbos foram; 
 http://localhost:3000/items - traz toda a listagem do banco de dados ou cadastra um produto.
