@@ -1,1 +1,1 @@
-[]
+[{"id":2,"produto":{"nome":"Lapis","Tipo":"cor azul","quantidade":650,"preco":15000,"estoque":true}},{"id":3,"produto":{"nome":"Caderno ","Tipo":"Capa Dura","quantidade":150,"preco":15000,"estoque":true}}]
