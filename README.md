@@ -1,4 +1,4 @@
-# Exercico-Carreira-M2-B2B-T06
+# Exercício-Carreira-M2-B2B-T06
 
 Programa API-REST, esta API assíncrona foi desenvolvida realizando um CRUD - "Create - Read - Update - Delete" simulando um estoque de um armarinho, Todos os ítens inseridos são armazenados no banco de dados. Utilizei leitura e escrita de arquivos no formato JSON que é o formato do banco de dados desta aplicação. Este servidor roda na porta localhost(3000).
 
