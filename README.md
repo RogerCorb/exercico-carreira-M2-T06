@@ -30,7 +30,8 @@ Vc vai precisar em sua máquina para rodar o programa
 
 ![vsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🛠️ Telas do programa
+
+## 💻 Telas do programa
 
 <img src="./src/img/lista produto.PNG" width=400 alt="listagem de produtos"> <img src="./src/img/cadastra produto.PNG" width=400 alt="cadastro de produtos">
 <img src="./src/img/consulta produto.PNG" width=400 alt="consulta de produtos"> <img src="./src/img/apaga produto.PNG" width=400 alt="deleta um produto produto">
@@ -39,8 +40,9 @@ Vc vai precisar em sua máquina para rodar o programa
 ## ✒️ Autor
 
 Rogerio corbo
+email:rogeriocgprest@gmail.com
 
 ## 🎁 Expressões de gratidão
 
-* Agradeço a todos a oportunidade de crescimento e aprendizado !
+* Agradeço a todos pela  oportunidade de crescimento e aprendizado !
 
