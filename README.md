@@ -1,6 +1,6 @@
 # Exercico-Carreira-M2-B2B-T06
 
-Programa de lógica escrito em Javascript que retorna se um número digitado é impar ou par 
+Programa API-REST, esta API assíncrona foi desenvolvida realizando um CRUD - "Create - Read - Update - Delete" simulando um estoque de um armarinho, Todos os ítens inseridos são armazenados no banco de dados. Utilizei leitura e escrita de arquivos no formato JSON que é o formato do banco de dados desta aplicação. Este servidor roda na porta localhost(3000).
 
 ## 🚀 Começando
 
@@ -8,7 +8,7 @@ Programa de lógica escrito em Javascript que retorna se um número digitado é 
  * Abra o seu VsCode
  * Abra o terminal e utilize o powershell ou o cmd
  * Faça o clone do reposítorio git clone <chavecopiadassh>
- * para rodar o programa digite Node index.js
+ * para rodar o programa digite npm start
 
 ### 📋 Pré-requisitos
 
@@ -19,10 +19,12 @@ Sistema operacional windows,linux,mac
 Vc vai precisar em sua máquina para rodar o programa 
  * VsCode
  * Node.js
+ * NPM 
+ * Express
 
 ## 🛠️ Construído com
 
-![vsCode]()
+![vsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## ✒️ Autor
 
