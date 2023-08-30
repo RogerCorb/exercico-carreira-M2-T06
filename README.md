@@ -32,10 +32,8 @@ Vc vai precisar em sua máquina para rodar o programa
 
 ## 🛠️ Telas do programa
 
-<img src="./src/img/lista produto.PNG" width=300 alt="listagem de produtos">
-<img src="./src/img/cadastra produto.PNG" width=300 alt="cadastro de produtos">
-<img src="./src/img/consulta produto.PNG" width=300 alt="consulta de produtos">
-<img src="./src/img/apaga produto.PNG" width=300 alt="deleta um produto produto">
+<img src="./src/img/lista produto.PNG" width=300 alt="listagem de produtos"> <img src="./src/img/cadastra produto.PNG" width=300 alt="cadastro de produtos">
+<img src="./src/img/consulta produto.PNG" width=300 alt="consulta de produtos"> <img src="./src/img/apaga produto.PNG" width=300 alt="deleta um produto produto">
 <img src="./src/img/listagem produtos.PNG" width=300 alt="lista um produto">
 
 ## ✒️ Autor
